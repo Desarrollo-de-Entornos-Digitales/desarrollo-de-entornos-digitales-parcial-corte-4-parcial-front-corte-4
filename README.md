@@ -10,6 +10,10 @@
 - **Toda la aplicación y diseño debe ser presentada en inglés.** Los nombres de variables, atributos y entidades en otro idioma no serán aceptados.
 - **Nota final:** Si la aplicación falla al ejecutarse, su nota podrá verse afectada drásticamente. Además, si el profesor lo considera, el examen deberá ser sustentado para validar sus conocimientos.
 
+## Repositorio del Backend
+
+https://github.com/Desarrollo-de-Entornos-Digitales/back-parcial-corte-4.git
+
 ## Descripción del Proyecto
 
 El objetivo de este examen consiste en desarrollar una interfaz de usuario utilizando **Next.js** que consuma un backend desarrollado en **NestJS**. La aplicación debe permitir la gestión de reservas para funciones de cine, integrando visualización de películas, horarios y selección de asientos.
